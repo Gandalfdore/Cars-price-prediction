@@ -54,7 +54,10 @@ Clone the repository:
 ## License
   
     This project is licensed under the MIT License.
-    Acknowledgments
+    
+## Acknowledgments
+
+    Data taken from: https://www.kaggle.com/datasets/toramky/automobile-dataset/data
 
 ## Web application
 
