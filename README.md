@@ -6,7 +6,7 @@ This project aims to determine car prices using data science techniques. It invo
 
 The project is structured into several components:
 
-- **Presentation document**: Showcasing the findings of the project and the methods that were used (can be found in report.pdf).
+- **Presentation document**: Showcasing the findings of the project and the methods that were used (can be found in `report.pdf`).
 
 - **Data Cleaning**: In this phase, the dataset is processed to handle missing values, outliers, and inconsistencies.
 
