@@ -58,3 +58,8 @@ Clone the repository:
 # What does the data hide
 
  ![Sample EDA Visualization](images/Brand_vs_Price.png)
+
+ <div style="background-color:white; padding: 10px;">
+    <img src="images/Brand_vs_Price.png" alt="Sample EDA Visualization">
+</div>
+
