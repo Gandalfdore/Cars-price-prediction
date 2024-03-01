@@ -6,6 +6,8 @@ This project aims to determine car prices using data science techniques. It invo
 
 The project is structured into several components:
 
+- **Presentation document**: Showcasing the findings of the project and the methods that were used.
+
 - **Data Cleaning**: In this phase, the dataset is processed to handle missing values, outliers, and inconsistencies.
 
 - **Exploratory Data Analysis (EDA)**: EDA is conducted to gain insights into the relationships between different features and the target variable (car prices). Visualizations generated during this phase are stored in the `images` folder.
@@ -53,13 +55,4 @@ Clone the repository:
   
     This project is licensed under the MIT License.
     Acknowledgments
-
-
-# What does the data hide
-
- ![Sample EDA Visualization](images/Brand_vs_Price.png)
-
- <div style="background-color:white; padding: 10px;">
-    <img src="images/Brand_vs_Price.png" alt="Sample EDA Visualization">
-</div>
 
